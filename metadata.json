@@ -1,0 +1,6 @@
+{
+  "name": "District STR Advisory | D.C. Airbnb Pricing & Market Intelligence",
+  "description": "Empirical pricing advisory and market intelligence platform for Washington D.C. Airbnb hosts and property managers with strict data-driven audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
